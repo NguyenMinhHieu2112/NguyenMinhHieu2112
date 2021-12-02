@@ -1,4 +1,16 @@
 ### Hi there 👋
+### ✨Welcome to my profile✨
+### My information 🤔
+- My full name: Nguyễn Minh Hiếu
+- Date of birth: 21-12-2003
+- I'm a computer science student at UIT
+- Location: Đồng Nai
+### Contact me 📫
+- email: hieu211203@gmail.com
+
+
+
+
 
 <!--
 **NguyenMinhHieu2112/NguyenMinhHieu2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
